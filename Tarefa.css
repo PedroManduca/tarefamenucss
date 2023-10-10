@@ -1,0 +1,22 @@
+ul{
+    margin: 0; padding: 0;
+}
+li {
+    list-style: none; display: inline; margin: 3px; 
+}
+li a{
+    background: #903; text-decoration: none; color: #FFF; padding: 5px; border-radius: 5px;
+}
+li a:hover{
+    background: #903; text-decoration: none; color: #FFF; padding: 5px; border-radius: 5px;
+}
+img {
+    padding-top: 60px;
+    padding-left: 500px;
+}
+h2 {
+    color: #FFF;
+}
+body{
+    background-color: black;
+}
